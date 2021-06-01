@@ -30,7 +30,7 @@
 ;;                    :font "Iosevka Aile"
                     :weight 'light)
 
-(add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
+(add-to-list 'custom-theme-load-path "~/.emacs.d/themes/vscode-dark-plus-emacs-theme/")
 (load-theme 'vscode-dark-plus t)
 
 ;; Make ESC quit prompt
